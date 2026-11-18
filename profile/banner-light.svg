@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" fill="none" role="img" aria-label="Axiothea Labs">
+  <rect width="1200" height="280" rx="8" fill="#F3F0E9"/>
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="7.5" stroke="#141514" stroke-opacity="0.14"/>
+
+  <!-- Subtle architectural grid lines -->
+  <line x1="96" y1="0" x2="96" y2="280" stroke="#141514" stroke-opacity="0.06"/>
+  <line x1="1104" y1="0" x2="1104" y2="280" stroke="#141514" stroke-opacity="0.06"/>
+  <line x1="0" y1="224" x2="1200" y2="224" stroke="#141514" stroke-opacity="0.08"/>
+
+  <!-- Emblem -->
+  <g transform="translate(132, 72) scale(1.25)">
+    <path d="M11 51L23.5 13H29.5V27L20.5 51H11Z" fill="#141514"/>
+    <path d="M34.5 13H40.5L53 51H43.5L34.5 27V13Z" fill="#141514"/>
+    <circle cx="32" cy="45.5" r="4.8" fill="#7D5634"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="240" y="114" fill="#141514" font-family="Georgia, 'Times New Roman', serif" font-size="44" letter-spacing="-0.5">Axiothea Labs</text>
+  <text x="242" y="152" fill="#474642" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18">Foundational technical inquiry, computational systems, and enduring software instruments.</text>
+
+  <!-- Bottom metadata strip -->
+  <text x="132" y="256" fill="#684426" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.2">INDEPENDENT RESEARCH &amp; SOFTWARE LAB</text>
+  <text x="1068" y="256" text-anchor="end" fill="#474642" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.8">AXIOTHEALABS.COM</text>
+</svg>
